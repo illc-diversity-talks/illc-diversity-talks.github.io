@@ -1,0 +1,15 @@
+---
+layout: page
+title: About
+permalink: /About/
+---
+
+<h1 class="page-title">{{ page.title | escape }}</h1>
+
+<div style="text-align: justify">
+	<h5>
+	The ILLC Diversity Talks is an initiative of the <a href="https://www.illc.uva.nl/AbouttheILLC/Diversity/Diversity-at-ILLC/" target="_blank" rel="noopener noreferrer">ILLC Diversity Committee</a>. <p> </p> 
+	The goal of the ILLC Diversity Talks is to show how research carried out at the ILLC interacts with recent works and findings in the area of diversity, broodly understood. 
+	They will be an opportunity for ILLC members to reflect on current research and practices which could foster diversity and inclusion within the institute.
+	</h5>
+</div>

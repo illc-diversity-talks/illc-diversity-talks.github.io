@@ -1,0 +1,10 @@
+title: ILLC Diversity Talks
+future: true
+
+description: > # this means to ignore newlines until "baseurl:"
+  ILLC Diversity Talks
+
+
+
+sass:
+    style: compressed
