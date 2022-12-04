@@ -20,7 +20,8 @@ permalink: /Previous Talks/
 </center>
       </div>
       <div class="collapsible-body"><span> 
-	  <b> Recording: </b> 
+	  <b> Recording:</b> <a style="color:black; text-decoration:underline" href="https://video.uva.nl/media/Moshe+VardiA+Artificial+IntelligenceA+Ethics+Versus+Public+Policy/0_p4o3rpto" target="_blank" rel="noopener noreferrer ">Zoom Recording</a> 	  
+	  <br>
       <b> Abstract: </b>      
       Over the past decade Artificial Intelligence, in general, and Machine Learning, in particular, have made impressive advancements, in image recognition, game playing, natural-language understanding and more. But there were also several instances where we saw the harm that these technologies can cause when they are deployed too hastily.
 
@@ -71,6 +72,8 @@ From a more practical point of view, I will discuss ongoing initiatives aimed at
 </center>
       </div>
       <div class="collapsible-body"><span> 
+	  <b> Recording:</b> <a style="color:black; text-decoration:underline" href="https://video.uva.nl/media/Isabelle+ColletA+Digital+Technology+and+Gender+EqualityA+A+Challenge+for+Higher+Education/0_nbia6j3h" target="_blank" rel="noopener noreferrer ">Zoom Recording</a> 	  
+	  <br>
       <b> Abstract: </b> 
       Digital technology is playing an increasing role in our society, but women are underrepresented. Today, less than 15% of computer science students in higher education in most European countries are women.
 
