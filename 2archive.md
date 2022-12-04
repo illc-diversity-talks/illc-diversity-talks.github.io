@@ -41,7 +41,7 @@ I will argue that the ethical lense is too narrow. The real issue is how to deal
 <h4> Academic Year 2021/2022 </h4>
 
 
- <ul class="collapsible popout">
+ <ul class="collapsible expandable">
       <li>
       <div class="collapsible-header"><img src="../pictures/ludo.jpg" alt="Ludo" class="marginauto" width="190" height="auto" style="border-radius: 50%">
 <center>      
