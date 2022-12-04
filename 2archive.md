@@ -8,7 +8,7 @@ permalink: /Previous Talks/
 
 <h4> Academic Year 2022/2023 </h4>
 
-<ul class="collapsible popout">
+<ul class="collapsible expandable">
       <li>
       <div class="collapsible-header"><img src="../pictures/moshe.jpg" alt="Ludo" class="marginauto" width="190" height="auto" style="border-radius: 50%">
 <center>      
@@ -20,6 +20,7 @@ permalink: /Previous Talks/
 </center>
       </div>
       <div class="collapsible-body"><span> 
+	  <b> Recording: </b> 
       <b> Abstract: </b>      
       Over the past decade Artificial Intelligence, in general, and Machine Learning, in particular, have made impressive advancements, in image recognition, game playing, natural-language understanding and more. But there were also several instances where we saw the harm that these technologies can cause when they are deployed too hastily.
 
